@@ -1,0 +1,1 @@
+base: '/fastfood-site/'
